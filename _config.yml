@@ -16,6 +16,7 @@ defaults:
     path: ''
     type: projects
   values:
+    layout: project
     featured_video: 
     thumbnail_image: 
 email: your-email@example.com
