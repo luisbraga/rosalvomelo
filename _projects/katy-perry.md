@@ -1,6 +1,6 @@
 ---
 title: Katy Perry
-thumbnail_image: "/uploads/KatyPerry_0002.jpg"
+thumbnail_image: "/uploads/KP_01.jpg"
 layout: project
 ---
 
