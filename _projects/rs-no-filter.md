@@ -1,5 +1,6 @@
 ---
+title: RS No Filter
 layout: project
-title:  "RS No Filter"
-thumbnail: ""
+thumbnail: ''
 ---
+
