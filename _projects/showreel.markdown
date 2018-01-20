@@ -5,3 +5,5 @@ featured_video: 132318288
 thumbnail_image: "/uploads/REEL.jpg"
 ---
 
+**Sound Design:** Gil Amado 
+**Music:** Nosaj Thing - 1685/Bach
