@@ -1,6 +1,6 @@
 ---
 title: Katy Perry
-position: 2
+position: 15
 thumbnail_image: "/uploads/KP_01.jpg"
 layout: project
 ---

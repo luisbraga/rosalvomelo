@@ -1,6 +1,7 @@
 ---
 title: Fitbit
 date: 2018-01-20 23:12:00 Z
+position: 1
 featured_video: 248486683
 thumbnail_image: "/uploads/FITBIT.jpg"
 ---
