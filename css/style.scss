@@ -1,0 +1,93 @@
+---
+---
+@import '../_sass/sass-flexbox';
+
+$font-primary: 'Anonymous Pro', monospace;
+$font-secondary: 'Poppins', sans-serif;
+
+*, :after, :before {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: $font-primary;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-secondary;
+}
+
+a {
+  color: inherit;
+  
+  &:hover,
+  &:focus,
+  &:visited {
+    color: inherit;
+  }
+}
+
+.projects {
+  @include row();
+  padding: 0 30px;
+  max-width: 1600px;
+}
+
+.project-card {
+  @include col(6);
+  @include col(md, 4);
+  position: relative;
+
+  &:hover &__details {
+    opacity: 1;
+    top: 0;
+  }
+
+  &__thumb {
+    max-width: 100%;
+    display: block;
+  }
+
+  &__details {
+    position: absolute;
+    opacity: 0;
+    top: 10%;
+    height: 100%;
+    width: 100%;
+    transition: all .25s ease-out;
+
+    &__title {
+      font-family: $font-secondary;
+      position: relative;
+      text-align: center;
+      top: 50%;
+      transform: translateY(-50%);
+      margin: 0;
+    }
+
+  }
+}
+
+.project {
+  max-width: 90vw;
+  margin: 0 auto;
+
+  &__featured-video {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  
+    iframe,
+    object,
+    embed {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+  }
+}
+

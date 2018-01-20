@@ -1,0 +1,18 @@
+{% include header.html %}
+
+  <section class="projects">
+    {% for project in site.projects %}
+    <a class="project-card" href="{{ project.url }}">
+      {% if project.thumbnail != "" %}
+        <img class="project-card__thumb" src="{{ site.data.global.image_upload_path }}{{ project.thumbnail }}" alt="project.title">
+        {% else %}
+        <img class="project-card__thumb" src="{{ site.data.global.image_upload_path }}thumbnail.svg" alt="project.title">
+      {% endif %}
+      <div class="project-card__details">
+        <h2 class="project-card__details__title">{{ project.title }}</h2>
+      </div>
+    </a>
+    {% endfor %}
+  </section>
+
+{% include footer.html %}
