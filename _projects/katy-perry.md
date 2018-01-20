@@ -1,5 +1,6 @@
 ---
+title: Katy Perry
 layout: project
-title:  "Katy Perry"
-thumbnail: ""
+thumbnail: ''
 ---
+
