@@ -16,8 +16,8 @@ $color-black: #171717;
 body {
   font-family: $font-primary;
   color: white;
-  // background-color: $color-black;
   background-color: #000000;
+  background-image: url("/img/bg.jpg");
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -52,10 +52,22 @@ header {
 }
 
 header {
-  padding: 50px 30px 40px;
+  padding: 100px 30px 80px;
+  text-align: center;
 
   .logo {
-    width: 300px;
+    width: 400px;
+    max-width: 100%;
+    display: block;
+    margin: 0 auto 25px;
+  }
+
+  a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: $font-primary;
+    margin: 0 10px;
+    letter-spacing: 1px;
   }
 }
 
