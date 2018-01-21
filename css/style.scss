@@ -1,10 +1,11 @@
 ---
 ---
-
 @import '../_sass/sass-flexbox';
+@import 'animations';
 
 $font-primary: 'Anonymous Pro', monospace;
 $font-secondary: 'Poppins', sans-serif;
+$color-black: #171717;
 
 *, :after, :before {
   box-sizing: border-box;
@@ -12,6 +13,9 @@ $font-secondary: 'Poppins', sans-serif;
 
 body {
   font-family: $font-primary;
+  color: white;
+  // background-color: $color-black;
+  background-color: #000000;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -28,42 +32,79 @@ a {
   }
 }
 
-.projects {
-  @include row();
+@mixin animate($animation: fadeInUp, $duration: 1s) {
+  animation-name: $animation;
+  animation-duration: $duration;
+  animation-fill-mode: both;
+}
+
+main {
+  @include animate();
+}
+
+main,
+header {
   padding: 0 30px;
   max-width: 1600px;
+  margin: 0 auto;
+}
+
+header {
+  padding: 50px 30px 40px;
+
+  .logo {
+    width: 300px;
+  }
+}
+
+.projects {
+  @include row();
 }
 
 .project-card {
   @include col(6);
   @include col(md, 4);
   position: relative;
+  overflow: hidden;
 
   &:hover &__details {
-    opacity: 1;
-    top: 0;
+    background-color: rgba(0,0,0,.8);
   }
 
+  &:hover &__thumb {
+    transform: scale(1.2);
+    transition: transform 15s;
+  }
+  
+  &:hover &__details__title {
+    top: 50%;
+    opacity: 1;
+  }
+  
   &__thumb {
     max-width: 100%;
     display: block;
+    transition: transform .25s;
   }
 
   &__details {
     position: absolute;
-    opacity: 0;
-    top: 10%;
+    top: 0;
     height: 100%;
     width: 100%;
-    transition: all .25s ease-out;
-
+    background-color: transparent;
+    transition:  all .25s ease-out;
+    
     &__title {
       font-family: $font-secondary;
       position: relative;
       text-align: center;
-      top: 50%;
+      top: 70%;
       transform: translateY(-50%);
       margin: 0;
+      opacity: 0;
+      padding: 0 20%;
+      transition:  all .25s ease-out;
     }
 
   }
