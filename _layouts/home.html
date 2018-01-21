@@ -1,7 +1,8 @@
 {% include header.html %}
 
   <section class="projects">
-    {% for project in site.projects %}
+    {% assign sorted_projects = site.projects | sort:"position", "last" %}
+    {% for project in sorted_projects %}
     <a class="project-card" href="{{ project.url }}">
       {% if project.thumbnail_image %}
         <img class="project-card__thumb" src="{{ project.thumbnail_image }}" alt="project.title">
