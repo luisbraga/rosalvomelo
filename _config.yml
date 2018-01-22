@@ -31,3 +31,8 @@ data_dir: "./_data"
 permalink: pretty
 include:
 - _pages
+socials:
+  facebook: http://facebook.com/rosalvomeloo
+  instagram: http://instagram.com/rosalvomelo
+  vimeo: http://vimeo.com/rosalvomelo
+  linkedIn: http://uk.linkedin.com/in/rosalvomelo
