@@ -32,7 +32,19 @@ permalink: pretty
 include:
 - _pages
 socials:
-  facebook: http://facebook.com/rosalvomeloo
-  instagram: http://instagram.com/rosalvomelo
-  vimeo: http://vimeo.com/rosalvomelo
-  linkedIn: http://uk.linkedin.com/in/rosalvomelo
+- name: Instagram
+  url: http://instagram.com/rosalvomelo
+  position: 5
+  icon: ""
+- name: Vimeo
+  url: http://vimeo.com/rosalvomelo
+  position: 2
+  icon: ""
+- name: LinkedIn
+  url: http://uk.linkedin.com/in/rosalvomelo
+  position: 3
+  icon: ""
+- name: Facebook
+  url: http://facebook.com/rosalvomeloo
+  position: 4
+  icon: ""

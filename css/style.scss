@@ -5,8 +5,7 @@
 @import 'animations';
 @import 'normalize';
 
-$font-primary: 'Anonymous Pro', monospace;
-$font-secondary: 'Poppins', sans-serif;
+$font-primary: 'Lato', sans-serif;
 $color-black: #171717;
 
 *, :after, :before {
@@ -21,7 +20,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $font-secondary;
+  font-weight: 700;
 }
 
 a {
@@ -114,7 +113,7 @@ header {
     transition:  all .25s ease-out;
     
     &__title {
-      font-family: $font-secondary;
+      font-weight: 700;
       position: relative;
       text-align: center;
       top: 70%;
@@ -151,3 +150,6 @@ header {
   }
 }
 
+.social-links img {
+  max-width: 50px;
+}
