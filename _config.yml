@@ -33,14 +33,14 @@ include:
 - _pages
 footer_copy: "&copy; 2018 Rosalvo Melo. All Rights Reserved"
 socials:
-- name: Instagram
-  url: http://instagram.com/rosalvomelo
-  position: 5
-  icon: "/img/ico-instagram.svg"
 - name: Vimeo
   url: http://vimeo.com/rosalvomelo
   position: 2
   icon: "/img/ico-vimeo.svg"
+- name: Instagram
+  url: http://instagram.com/rosalvomelo
+  position: 5
+  icon: "/img/ico-instagram.svg"
 - name: LinkedIn
   url: http://uk.linkedin.com/in/rosalvomelo
   position: 3
