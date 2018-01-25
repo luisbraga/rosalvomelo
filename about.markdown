@@ -4,7 +4,6 @@ date: 2018-01-21 22:39:00 Z
 position: 2
 ---
 
-
 <blockquote>
   <p>Rosalvo&rsquo;s&nbsp;entire life is dedicated to creativity and exploration. From his love of design and animation through to his passion for music and drumming, everything he does revolves around being creative and free with his thoughts &ndash; you can think of his brain as a kaleidoscope of sound, rhythm and colours!</p>
   
