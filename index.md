@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-layout: home
 position: 1
+layout: home
 ---
 
