@@ -6,3 +6,5 @@ layout: project
 ---
 
 ![KP.png](/uploads/KP.png)
+
+Katy Perry Tour Visuals
