@@ -6,7 +6,7 @@ featured_video: 95260426
 thumbnail_image: "/uploads/DRWHO.jpg"
 ---
 
-Gold, Best Design, General Image Campaign, Promax Europe 2015<br>
+<br>Gold, Best Design, General Image Campaign, Promax Europe 2015<br>
 Nominated, Best Season or Stunt Campaign, Promax UK 2014
 Nominated, Best Launch Promo or Campaign, Promax UK 2014
 
