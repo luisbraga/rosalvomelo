@@ -6,19 +6,19 @@ featured_video: 95260426
 thumbnail_image: "/uploads/DRWHO.jpg"
 ---
 
-Gold, Best Design, General Image Campaign, Promax Europe 2015
+</p>Gold, Best Design, General Image Campaign, Promax Europe 2015
 Nominated, Best Season or Stunt Campaign, Promax UK 2014
-Nominated, Best Launch Promo or Campaign, Promax UK 2014
+Nominated, Best Launch Promo or Campaign, Promax UK 2014</p>
 
 
 
-Campaign celebrating the arrival of classic series of Doctor Who to Horror Channel, Easter 2014.
-Creative Direction: Pete Jeffs
-2D/3D Animation: Rosalvo Melo
-Character Animation: Dan Jacobs
-Done at Drover.
+</p>Campaign celebrating the arrival of classic series of Doctor Who to Horror Channel, Easter 2014.</p>
+</p>Creative Direction: Pete Jeffs</p>
+</p>2D/3D Animation: Rosalvo Melo</p>
+</p>Character Animation: Dan Jacobs</p>
+</p>Done at Drover.</p>
 
 
-drover.tv
-rosalvomelo.com
-danwjacobs.com
+</p>drover.tv</p>
+</p>rosalvomelo.com</p>
+</p>danwjacobs.com</p>
