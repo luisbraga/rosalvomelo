@@ -6,11 +6,11 @@ featured_video: 248486683
 thumbnail_image: "/uploads/FITBIT.jpg"
 ---
 
-Produced and Directed by Cookie Studio
+Produced and Directed by Cookie Studio<br>
 
-Creative Director: Thiago Maia
-Producer: Thierry Levy
-Design: Alexis Rabeuf
-3D Animators: Nelson De Sousa, Rosalvo Melo & Kevin Francis
-2D Animation: Rosalvo Melo
-Compositing: Nelson De Sousa & Thiago Maia
+<br>Creative Director: Thiago Maia<br>
+Producer: Thierry Levy<br>
+Design: Alexis Rabeuf<br>
+3D Animators: Nelson De Sousa, Rosalvo Melo & Kevin Francis<br>
+2D Animation: Rosalvo Melo<br>
+Compositing: Nelson De Sousa & Thiago Maia<br>
