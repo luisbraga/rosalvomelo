@@ -5,5 +5,5 @@ thumbnail_image: "/uploads/RS1.jpg"
 layout: project
 ---
 
-![RS.png](/uploads/RS.png)
+![RS-19a990.png](/uploads/RS-19a990.png)
 Rolling Stones Tour Visuals
