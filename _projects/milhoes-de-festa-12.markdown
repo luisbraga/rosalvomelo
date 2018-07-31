@@ -6,6 +6,7 @@ featured_video: 45457466
 thumbnail_image: "/uploads/MDF12.jpg"
 ---
 
-Promo video for Milhões de Festa 2012
+Promo video for Milhões de Festa 2012<br>
 
-Music & Sound Design: Gil Amado
+<br>Music & Sound Design: Gil Amado<br>
+Design & Animation: Rosalvo Melo<br>
