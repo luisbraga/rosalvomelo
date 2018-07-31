@@ -6,7 +6,7 @@ featured_video: 95260426
 thumbnail_image: "/uploads/DRWHO.jpg"
 ---
 
-Gold, Best Design, General Image Campaign, Promax Europe 2015
+Gold, Best Design, General Image Campaign, Promax Europe 2015<br>
 Nominated, Best Season or Stunt Campaign, Promax UK 2014
 Nominated, Best Launch Promo or Campaign, Promax UK 2014
 
@@ -15,7 +15,6 @@ Creative Direction: Pete Jeffs
 2D/3D Animation: Rosalvo Melo
 Character Animation: Dan Jacobs
 Done at Drover.
-
 
 drover.tv
 rosalvomelo.com
