@@ -6,8 +6,8 @@ featured_video: 191479053
 thumbnail_image: "/uploads/SJC1-31274f.jpg"
 ---
 
-Jay Weinberg UK Event
+Jay Weinberg UK Event<br>
 
-www.sjcdrums.com
-www.gear4music.com
-www.evansdrumheads.com​
+<br>sjcdrums.com<br>
+gear4music.com<br>
+evansdrumheads.com​
