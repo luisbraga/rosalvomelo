@@ -9,6 +9,6 @@ layout: project
 
 
 Concept by **Moving Brands**
-Design, Direction & Animation by **Art&Graft**</p>
+Design, Direction & Animation by **Art&Graft**
 I helped animate this piece working as part of the in-house team at Art&Graft
 Audio Design: Box of Toys
