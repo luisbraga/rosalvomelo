@@ -5,6 +5,6 @@ thumbnail_image: "/uploads/KATY.jpg"
 layout: project
 ---
 
-![KP-4e02e5.png](/uploads/KP-4e02e5.png)
+![KP-ea7d6a.png](/uploads/KP-ea7d6a.png)
 
 Katy Perry Tour Visuals
