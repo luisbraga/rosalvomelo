@@ -6,9 +6,9 @@ featured_video: 251718295
 thumbnail_image: "/uploads/KR.jpg"
 ---
 
-Kaz Rodriguez - Thoughts
-Third album promo video.
+Kaz Rodriguez - Thoughts<br>
+Third album promo video.<br>
  
-Audio: Kaz Rodriguez
-Album artwork: Eddy Thrower
-Animation: Rosalvo Melo
+<br>Audio: Kaz Rodriguez<br>
+Album artwork: Eddy Thrower<br>
+Animation: Rosalvo Melo<br>
