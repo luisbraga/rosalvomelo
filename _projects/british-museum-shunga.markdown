@@ -6,9 +6,9 @@ featured_video: 74658191
 thumbnail_image: "/uploads/SHUNGA.jpg"
 ---
 
-Promo for an up coming exhibition, showing some nice Japanese erotic art pieces.
+Promo for an up coming exhibition, showing some nice Japanese erotic art pieces.<br>
 
-"Shunga... sex and pleasure in Japanese art"
+<br>"Shunga... sex and pleasure in Japanese art"<br>
 
 
-Fgreatstudio.com
+<br>Fgreatstudio.com<br>
