@@ -6,3 +6,4 @@ thumbnail_image: "/uploads/BOOM.jpg"
 layout: project
 ---
 
+Working as part of the in-house team at Art&Graft
