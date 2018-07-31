@@ -18,5 +18,5 @@ Done at Drover.
 
 
 drover.tv
-rosalvomelo.com</p>
-danwjacobs.com</p>
+rosalvomelo.com
+danwjacobs.com
