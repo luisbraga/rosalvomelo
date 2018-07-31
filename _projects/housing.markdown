@@ -7,8 +7,7 @@ thumbnail_image: "/uploads/HOUSING.jpg"
 layout: project
 ---
 
-Concept by **Moving Brands**<br>
-Design, Direction & Animation by **Art&Graft**<br>
-
+Concept: **Moving Brands**<br>
+Design, Direction & Animation: **Art&Graft**<br>
 Audio Design: Box of Toys<br>
 <br>I helped animate this piece working as part of the in-house team at Art&Graft
