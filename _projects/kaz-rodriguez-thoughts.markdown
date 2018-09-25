@@ -1,6 +1,7 @@
 ---
 title: Kaz Rodriguez - Thoughts
 date: 2018-01-20 23:13:00 Z
+published: false
 position: 15
 featured_video: 251718295
 thumbnail_image: "/uploads/KR.jpg"
