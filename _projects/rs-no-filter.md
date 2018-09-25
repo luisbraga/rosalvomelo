@@ -1,6 +1,6 @@
 ---
 title: RS No Filter
-position: 9
+position: 6
 thumbnail_image: "/uploads/RS1.jpg"
 layout: project
 ---
