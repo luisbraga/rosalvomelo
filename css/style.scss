@@ -64,11 +64,15 @@ header {
   padding: 100px 30px 80px;
   text-align: center;
 
+  & > a {
+    display: inline-block;
+  }
+
   .logo {
-    width: 150px;
+    width: 115px;
     max-width: 100%;
     display: inline-block;
-    margin: 0 auto 30px;
+    margin: 0 auto 20px;
   }
 
   nav {
