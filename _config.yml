@@ -31,7 +31,7 @@ data_dir: "./_data"
 permalink: pretty
 include:
 - _pages
-footer_copy: "&copy; 2018 Rosalvo Melo. All Rights Reserved"
+footer_copy: "&copy; 2019 Rosalvo Melo. All Rights Reserved"
 socials:
 - name: Vimeo
   url: http://vimeo.com/rosalvomelo
