@@ -1,7 +1,6 @@
 ---
 title: Fantasma - Negro Dia
 date: 2019-02-20 20:08:00 Z
-published: false
 tags:
 - music video
 - fantasma
@@ -20,6 +19,9 @@ tags:
 - direction
 - show reel
 position: 2
+featured_video: |-
+  <iframe src="https://player.vimeo.com/video/318998242?color=000000&title=0&byline=0&portrait=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <p><a href="https://vimeo.com/318998242">Fantasma - Negro Dia [HD]</a> from <a href="https://vimeo.com/rosalvomelo">rosalvomelo.</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 thumbnail_image: "/uploads/Fantasma.jpg"
 ---
 
