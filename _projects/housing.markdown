@@ -1,7 +1,7 @@
 ---
 title: Housing
 date: 2018-01-20 20:24:00 Z
-position: 3
+position: 2
 featured_video: 131862254
 thumbnail_image: "/uploads/HOUSING.jpg"
 layout: project
