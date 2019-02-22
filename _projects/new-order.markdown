@@ -5,4 +5,5 @@ position: 11
 thumbnail_image: "/uploads/NO-ce6d96.jpg"
 ---
 
-New Order Tour Visuals![NO.png](/uploads/NO.png)
+[NO.png](/uploads/NO.png)
+New Order Tour Visuals!
