@@ -19,7 +19,18 @@ tags:
 - direction
 - show reel
 position: 2
-featured_video: https://www.youtube.com/watch?v=SnxZYJ4sd3g&fbclid=IwAR33g2Z9-EPTCY7ssPR67CbkJ1DaTVva0cN0_xBgh-VGeo5Rhhp0rIXzA-o
+featured_video: <iframe width="560" height="315" src="https://www.youtube.com/embed/SnxZYJ4sd3g"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
 thumbnail_image: "/uploads/Fantasma.jpg"
 ---
 
+Idea & Creative Direction: Fantasma
+Direction: Fantasma & Rosalvo Melo
+Design & Animation: Rosalvo Melo
+
+
+
+Fantasma
+Facebook: www.facebook.com/ofacedofantasma
+Instagram: www.instagram.com/oinstadofantasma
