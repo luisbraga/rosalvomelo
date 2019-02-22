@@ -6,7 +6,7 @@ featured_video: 191479053
 thumbnail_image: "/uploads/SJC1-31274f.jpg"
 ---
 
-Jay Weinberg UK Event<br>
+SJC x Jay Weinberg
 
 <br>sjcdrums.com<br>
 gear4music.com<br>
