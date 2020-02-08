@@ -31,16 +31,16 @@ data_dir: "./_data"
 permalink: pretty
 include:
 - _pages
-footer_copy: "&copy; 2019 Rosalvo Melo. All Rights Reserved"
+footer_copy: "&copy; 2020 Rosalvo Melo. All Rights Reserved"
 socials:
-- name: Vimeo
-  url: http://vimeo.com/rosalvomelo
-  position: 2
-  icon: "/img/ico-vimeo.svg"
 - name: Instagram
   url: http://instagram.com/rosalvomelo
   position: 5
   icon: "/img/ico-instagram.svg"
+- name: Vimeo
+  url: http://vimeo.com/rosalvomelo
+  position: 2
+  icon: "/img/ico-vimeo.svg"
 - name: LinkedIn
   url: http://uk.linkedin.com/in/rosalvomelo
   position: 3
