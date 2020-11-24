@@ -1,7 +1,6 @@
 ---
 title: New Order
 date: 2019-02-22 17:31:00 Z
-published: false
 position: 14
 thumbnail_image: "/uploads/NO-ce6d96.jpg"
 ---
