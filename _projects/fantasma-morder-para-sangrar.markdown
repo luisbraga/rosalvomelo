@@ -16,6 +16,7 @@ tags:
 - rock
 - portugal
 - show reel
+position: 10
 thumbnail_image: "/uploads/MPS.jpg"
 ---
 
