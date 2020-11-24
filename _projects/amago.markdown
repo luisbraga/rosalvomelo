@@ -1,7 +1,6 @@
 ---
 title: ÂMAGO
 date: 2020-11-24 11:48:00 Z
-published: false
 tags:
 - fantasma
 - fabric
@@ -12,6 +11,7 @@ tags:
 - mike ghost
 - music video
 - directors cut
+thumbnail_image: "/uploads/AMG%20copy.jpg"
 ---
 
 Visualiser for Fantasma's Âmago EP.<br>
