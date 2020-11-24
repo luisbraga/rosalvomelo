@@ -12,7 +12,7 @@ tags:
 - 2D
 position: 12
 featured_video: 483151202
-thumbnail_image: "/uploads/Quartz.jpg"
+thumbnail_image: "/uploads/qwqwQuartzzzz.jpg"
 ---
 
 Fun little experiment with colours, shapes in sounds.
