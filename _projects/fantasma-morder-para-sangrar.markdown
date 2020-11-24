@@ -1,7 +1,21 @@
 ---
 title: Fantasma - Morder Para Sangrar ft Brent Hinds
 date: 2020-11-24 12:43:00 Z
-featured_video: watch?v=qlA5bov2oTc
+tags:
+- Music
+- music video
+- fantasma
+- fabric
+- motion graphics
+- mike ghost
+- 3D
+- direction
+- directors cut
+- live action
+- pop rock
+- rock
+- portugal
+- show reel
 thumbnail_image: "/uploads/MPS.jpg"
 ---
 
