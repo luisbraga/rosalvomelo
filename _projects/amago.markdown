@@ -14,7 +14,7 @@ tags:
 - directors cut
 ---
 
-Visualiser for Fantasma's Âmago EP.
+Visualiser for Fantasma's Âmago EP.<br>
 
-Full EP:
-https://bit.ly/36Yr2QU
+<br>Full EP:
+https://bit.ly/36Yr2QU<br>
