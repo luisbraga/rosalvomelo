@@ -2,7 +2,7 @@
 title: Fantasma - Morder Para Sangrar ft Brent Hinds
 date: 2020-11-24 12:57:00 Z
 position: 8
-thumbnail_image: "/uploads/MPS.jpg"
+thumbnail_image: "/uploads/5c6db74c536d6849873e9649.jpg"
 ---
 
 Idea & Creative Direction: Fantasma<br>
