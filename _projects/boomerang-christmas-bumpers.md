@@ -1,6 +1,6 @@
 ---
 title: Boomerang Christmas Bumpers
-position: 7
+position: 6
 featured_video: 155097955
 thumbnail_image: "/uploads/BOOM.jpg"
 layout: project
