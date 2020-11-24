@@ -11,7 +11,7 @@ tags:
 - mike ghost
 - music video
 - directors cut
-position: 8
+position: 9
 featured_video: 483052152
 thumbnail_image: "/uploads/AMG%20copy.jpg"
 ---
