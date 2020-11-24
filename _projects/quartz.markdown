@@ -10,7 +10,7 @@ tags:
 - motion design
 - 3D
 - 2D
-position: 13
+position: 12
 featured_video: 483151202
 thumbnail_image: "/uploads/Quartz.jpg"
 ---

@@ -7,7 +7,7 @@ tags:
 - motion graphics
 - design
 - animation
-position: 12
+position: 13
 featured_video: 483085292
 thumbnail_image: "/uploads/Inf.jpg"
 ---
