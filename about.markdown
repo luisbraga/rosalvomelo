@@ -11,7 +11,6 @@ position: 2
   
   <p>When it comes to your work, he works tirelessly to understand what the true meanings are behind your ideas and then applies his creativity, professionalism and hard work, to always ensure what is produced is better than what you wanted.</p>
   
-  <p>That&rsquo;s what I think, but what do I know, I only hear his drums reverberate through me on stage!</p>
   
   <p>Tom Roberts - RGC</p>
 </blockquote>
