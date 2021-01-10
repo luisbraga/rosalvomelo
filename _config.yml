@@ -31,7 +31,7 @@ data_dir: "./_data"
 permalink: pretty
 include:
 - _pages
-footer_copy: "&copy; 2020 Rosalvo Melo. All Rights Reserved"
+footer_copy: "&copy; 2021 Rosalvo Melo. All Rights Reserved"
 socials:
 - name: Instagram
   url: http://instagram.com/rosalvomelo
