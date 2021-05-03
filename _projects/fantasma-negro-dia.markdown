@@ -18,7 +18,7 @@ tags:
 - directors cut
 - direction
 - show reel
-position: 3
+position: 8
 featured_video: 318998242
 thumbnail_image: "/uploads/Fantasma.jpg"
 ---
