@@ -20,7 +20,6 @@ tags:
 - direction
 - show reel
 position: 9
-featured_video: 318998242
 thumbnail_image: "/uploads/Fantasma.jpg"
 ---
 
